@@ -286,6 +286,10 @@ h3 {
   padding: 0.5rem 0;
   display: flex;
   column-gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 20px;
 }
 .project-links a {
   display: flex;
